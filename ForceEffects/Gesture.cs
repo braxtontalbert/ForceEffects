@@ -5,7 +5,7 @@ using ThunderRoad;
 using UnityEngine;
 //using ExtensionMethods;
 
-namespace GestureEngine;
+namespace ForceEffects;
 
 using NamedConditionSet = Tuple<string, Func<bool>[]>;
 using NamedCondition = Tuple<string, Func<bool>>;
