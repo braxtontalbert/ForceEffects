@@ -11,6 +11,6 @@ namespace ForceEffects
 {
     public class ForceEffectsEntry : SpellCastCharge
     {
-
+        
     }
 }
